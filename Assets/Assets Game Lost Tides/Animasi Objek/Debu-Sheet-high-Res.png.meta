@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: dfb39ad15ae07ce4598f8ac9600d2f9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1595761551771519786
+    second: Debu-Sheet-high-Res_0
+  - first:
+      213: -6536934419433889489
+    second: Debu-Sheet-high-Res_1
+  - first:
+      213: 3987920122822525083
+    second: Debu-Sheet-high-Res_2
+  - first:
+      213: -8264861135402542765
+    second: Debu-Sheet-high-Res_3
+  - first:
+      213: 1291326468776858143
+    second: Debu-Sheet-high-Res_4
+  - first:
+      213: -5742091265571160508
+    second: Debu-Sheet-high-Res_5
+  - first:
+      213: -9187266365268031879
+    second: Debu-Sheet-high-Res_6
+  - first:
+      213: -5039178414817885620
+    second: Debu-Sheet-high-Res_7
+  - first:
+      213: -2899324657216482473
+    second: Debu-Sheet-high-Res_8
+  - first:
+      213: -355564193614861204
+    second: Debu-Sheet-high-Res_9
+  - first:
+      213: -4541235061518976623
+    second: Debu-Sheet-high-Res_10
+  - first:
+      213: 8239287485781463781
+    second: Debu-Sheet-high-Res_11
+  - first:
+      213: 2723372150176177934
+    second: Debu-Sheet-high-Res_12
+  - first:
+      213: -5889637833557120699
+    second: Debu-Sheet-high-Res_13
+  - first:
+      213: 5981965302988614532
+    second: Debu-Sheet-high-Res_14
+  - first:
+      213: 2810616161244404709
+    second: Debu-Sheet-high-Res_15
+  - first:
+      213: -3509853396366149460
+    second: Debu-Sheet-high-Res_16
+  - first:
+      213: -4024960356042126989
+    second: Debu-Sheet-high-Res_17
+  - first:
+      213: -93956807600025292
+    second: Debu-Sheet-high-Res_18
+  - first:
+      213: 3199436463465771842
+    second: Debu-Sheet-high-Res_19
+  - first:
+      213: 8706801091078166139
+    second: Debu-Sheet-high-Res_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Debu-Sheet-high-Res_0
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 647
+        width: 1046
+        height: 992
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b41973da8452610800000000000000
+      internalID: 1595761551771519786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debu-Sheet-high-Res_1
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 1295
+        width: 506
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f216e9997c42845a0800000000000000
+      internalID: -6536934419433889489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debu-Sheet-high-Res_2
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 1241
+        width: 524
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9008790930f75730800000000000000
+      internalID: 3987920122822525083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debu-Sheet-high-Res_3
+      rect:
+        serializedVersion: 2
+        x: 5003
+        y: 1331
+        width: 506
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359566226905d4d80800000000000000
+      internalID: -8264861135402542765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debu-Sheet-high-Res_4
+      rect:
+        serializedVersion: 2
+        x: 5993
+        y: 1277
+        width: 524
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f121184e496bbe110800000000000000
+      internalID: 1291326468776858143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debu-Sheet-high-Res_5
+      rect:
+        serializedVersion: 2
+        x: 7271
+        y: 1349
+        width: 506
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ef1c7ba6eff40b0800000000000000
+      internalID: -5742091265571160508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debu-Sheet-high-Res_6
+      rect:
+        serializedVersion: 2
+        x: 8333
+        y: 1313
+        width: 524
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9760e41cae5408080800000000000000
+      internalID: -9187266365268031879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debu-Sheet-high-Res_7
+      rect:
+        serializedVersion: 2
+        x: 9557
+        y: 1385
+        width: 506
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42c6f03eed311ab0800000000000000
+      internalID: -5039178414817885620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debu-Sheet-high-Res_8
+      rect:
+        serializedVersion: 2
+        x: 10673
+        y: 1349
+        width: 524
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7539416e59783c7d0800000000000000
+      internalID: -2899324657216482473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debu-Sheet-high-Res_9
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 521
+        width: 632
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cecb0ff38c01bf0800000000000000
+      internalID: -355564193614861204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debu-Sheet-high-Res_10
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 1007
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199bc94a5ca4af0c0800000000000000
+      internalID: -4541235061518976623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debu-Sheet-high-Res_11
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 485
+        width: 560
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e253509054d75270800000000000000
+      internalID: 8239287485781463781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debu-Sheet-high-Res_12
+      rect:
+        serializedVersion: 2
+        x: 5039
+        y: 485
+        width: 632
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f5172aa8c5bc520800000000000000
+      internalID: 2723372150176177934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debu-Sheet-high-Res_13
+      rect:
+        serializedVersion: 2
+        x: 5507
+        y: 971
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5496023589dc34ea0800000000000000
+      internalID: -5889637833557120699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debu-Sheet-high-Res_14
+      rect:
+        serializedVersion: 2
+        x: 6065
+        y: 467
+        width: 560
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b295fcfb5340350800000000000000
+      internalID: 5981965302988614532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debu-Sheet-high-Res_15
+      rect:
+        serializedVersion: 2
+        x: 7775
+        y: 953
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebd1f2e180510720800000000000000
+      internalID: 2810616161244404709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debu-Sheet-high-Res_16
+      rect:
+        serializedVersion: 2
+        x: 8405
+        y: 449
+        width: 560
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8b5e79eee7a4fc0800000000000000
+      internalID: -3509853396366149460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debu-Sheet-high-Res_17
+      rect:
+        serializedVersion: 2
+        x: 7307
+        y: 467
+        width: 632
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379441f91e77428c0800000000000000
+      internalID: -4024960356042126989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debu-Sheet-high-Res_18
+      rect:
+        serializedVersion: 2
+        x: 9593
+        y: 449
+        width: 632
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43155c208c232bef0800000000000000
+      internalID: -93956807600025292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debu-Sheet-high-Res_19
+      rect:
+        serializedVersion: 2
+        x: 10061
+        y: 935
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2433f4e138ea66c20800000000000000
+      internalID: 3199436463465771842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debu-Sheet-high-Res_20
+      rect:
+        serializedVersion: 2
+        x: 10745
+        y: 431
+        width: 560
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7692b33675c4d870800000000000000
+      internalID: 8706801091078166139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

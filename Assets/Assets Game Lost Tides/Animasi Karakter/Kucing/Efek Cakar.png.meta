@@ -1,0 +1,705 @@
+fileFormatVersion: 2
+guid: 73a6253eb0671c343b059b05a9eb2efa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4977393899233768698
+    second: Efek Cakar_0
+  - first:
+      213: 711924724893108407
+    second: Efek Cakar_1
+  - first:
+      213: -4382008365843719907
+    second: Efek Cakar_2
+  - first:
+      213: -2432635574018311897
+    second: Efek Cakar_3
+  - first:
+      213: -4356155204125343832
+    second: Efek Cakar_4
+  - first:
+      213: 7507718489831001782
+    second: Efek Cakar_5
+  - first:
+      213: -7266099687955537821
+    second: Efek Cakar_6
+  - first:
+      213: 5969631185944250605
+    second: Efek Cakar_7
+  - first:
+      213: -2533113417977852169
+    second: Efek Cakar_8
+  - first:
+      213: -5484076052045621205
+    second: Efek Cakar_9
+  - first:
+      213: 4128287594260659372
+    second: Efek Cakar_10
+  - first:
+      213: -2764599972747357091
+    second: Efek Cakar_11
+  - first:
+      213: 9042481774443102637
+    second: Efek Cakar_12
+  - first:
+      213: 6914996123191578276
+    second: Efek Cakar_13
+  - first:
+      213: 4539316079248217356
+    second: Efek Cakar_14
+  - first:
+      213: 4835732801087911743
+    second: Efek Cakar_15
+  - first:
+      213: 2981104648987460510
+    second: Efek Cakar_16
+  - first:
+      213: 69282950436997609
+    second: Efek Cakar_17
+  - first:
+      213: -8409385417512608804
+    second: Efek Cakar_18
+  - first:
+      213: 7546579023982635344
+    second: Efek Cakar_19
+  - first:
+      213: -8242833059990138697
+    second: Efek Cakar_20
+  - first:
+      213: 5301868326704776993
+    second: Efek Cakar_21
+  - first:
+      213: 6646930761723485831
+    second: Efek Cakar_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Efek Cakar_0
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 83
+        width: 191
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b89f8be9ebceab0800000000000000
+      internalID: -4977393899233768698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efek Cakar_1
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 86
+        width: 212
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8421ee3c341e900800000000000000
+      internalID: 711924724893108407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efek Cakar_2
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 59
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19581fab9aff23c0800000000000000
+      internalID: -4382008365843719907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efek Cakar_3
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 50
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729f8a685da8d3ed0800000000000000
+      internalID: -2432635574018311897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efek Cakar_4
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 50
+        width: 32
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afb3a7fbe3db83c0800000000000000
+      internalID: -4356155204125343832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efek Cakar_5
+      rect:
+        serializedVersion: 2
+        x: 3785
+        y: 65
+        width: 26
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be420c5036c03860800000000000000
+      internalID: 7507718489831001782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efek Cakar_6
+      rect:
+        serializedVersion: 2
+        x: 3803
+        y: 26
+        width: 32
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36065dcc4d0a92b90800000000000000
+      internalID: -7266099687955537821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efek Cakar_7
+      rect:
+        serializedVersion: 2
+        x: 4121
+        y: 56
+        width: 32
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de80d466fe368d250800000000000000
+      internalID: 5969631185944250605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efek Cakar_8
+      rect:
+        serializedVersion: 2
+        x: 4163
+        y: 71
+        width: 26
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe87a174c298dcd0800000000000000
+      internalID: -2533113417977852169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efek Cakar_9
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 26
+        width: 32
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b281894f2e5a4e3b0800000000000000
+      internalID: -5484076052045621205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efek Cakar_10
+      rect:
+        serializedVersion: 2
+        x: 4943
+        y: 107
+        width: 26
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacfe82c1bf9a4930800000000000000
+      internalID: 4128287594260659372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efek Cakar_11
+      rect:
+        serializedVersion: 2
+        x: 5327
+        y: 62
+        width: 38
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54d656e8fa22a9d0800000000000000
+      internalID: -2764599972747357091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efek Cakar_12
+      rect:
+        serializedVersion: 2
+        x: 5711
+        y: 0
+        width: 44
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da100a5c3495d7d70800000000000000
+      internalID: 9042481774443102637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efek Cakar_13
+      rect:
+        serializedVersion: 2
+        x: 6101
+        y: 0
+        width: 41
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae890a365007ff50800000000000000
+      internalID: 6914996123191578276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efek Cakar_14
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 83
+        width: 92
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c051fca7ce3eefe30800000000000000
+      internalID: 4539316079248217356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efek Cakar_15
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 56
+        width: 182
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37bc8d9c59fb1340800000000000000
+      internalID: 4835732801087911743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efek Cakar_16
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 53
+        width: 95
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93c92932e20f5920800000000000000
+      internalID: 2981104648987460510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efek Cakar_17
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 29
+        width: 86
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9c9c1f97426f000800000000000000
+      internalID: 69282950436997609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efek Cakar_18
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 23
+        width: 182
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb9fc1848cdb4b80800000000000000
+      internalID: -8409385417512608804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efek Cakar_19
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 53
+        width: 164
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05926e983a5dab860800000000000000
+      internalID: 7546579023982635344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efek Cakar_20
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 26
+        width: 203
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0117c11039b9d80800000000000000
+      internalID: -8242833059990138697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efek Cakar_21
+      rect:
+        serializedVersion: 2
+        x: 3782
+        y: 41
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12702231725049940800000000000000
+      internalID: 5301868326704776993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efek Cakar_22
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 44
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e15239f44ae3c50800000000000000
+      internalID: 6646930761723485831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
